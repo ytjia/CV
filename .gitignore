@@ -1,3 +1,6 @@
+## ignore my cv dir before it's finished
+cv/*
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
